@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed ELKady</h1>
 <h3 align="center">A passionate Devops Engineer from Egypt</h3>
 
-- 🌱 I’m currently learning **Linux, Networking, Devops, and cloud computing.**
+- 🌱 I’m currently learning **Linux, Networking, Devops, and Cloud Computing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
